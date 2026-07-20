@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/Ic3Xer">
+  <a href="https://github.com/icexer">
     <img src="https://img.shields.io/github/followers/Ic3Xer?label=Followers&style=for-the-badge&color=bd00ff&logo=github" alt="GitHub Followers" />
   </a>
   <a href="mailto:icexerx1s@gmail.com">
@@ -79,9 +79,9 @@ operator@1c3xer:~$ neofetch
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/Ic3Xer">
+      <a href="https://github.com/icexer">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br>
-        <sub><b>Ic3Xer</b></sub>
+        <sub><b>icexer</b></sub>
       </a>
     </td>
     <td align="center">

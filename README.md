@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/icexer">
-    <img src="https://img.shields.io/github/followers/Ic3Xer?label=Followers&style=for-the-badge&color=bd00ff&logo=github" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/icexer?label=Followers&style=for-the-badge&color=bd00ff&logo=github" alt="GitHub Followers" />
   </a>
   <a href="mailto:icexerx1s@gmail.com">
     <img src="https://img.shields.io/badge/Email-icexerx1s%40gmail.com-00f0ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact" />
@@ -18,17 +18,17 @@
 ### 🖥️ Interactive Console
 
 ```bash
-operator@1c3xer:~$ neofetch
+icexer@1c3xer:~$ fastfetch
 ```
 
 ```text
-       .---.          1c3xer@github.com
+       .---.          icexer11@icexer.space
       /     \         -----------------
-      \.@-@./         OS: Cyber Linux x86_64
-      /`\_/`\         Kernel: 5.15.0-icexer-hardened
+      \.@-@./         OS: IcexEr Linux x86_64
+      /`\_/`\         Name: Akaraphum Seramethakun
      //  _  \\        Uptime: 19 Years
-    | \     / |       Shell: zsh 5.8.1
-   / \ \___/ / \      Status: Active & Listening
+    | \     / |       Shell: bash 5.3.9
+   / \ \___/ / \      Status: Active
   /   \_____/   \     Role: Fullstack Dev / PenTester
   |_  /     \  _|     Interests: Bass Guitar, Networking, Red Teaming
   | |/       \| |     Coordinates: C:\Users\icexe\
@@ -40,11 +40,11 @@ operator@1c3xer:~$ neofetch
 
 | Category | Languages & Tools | Efficiency |
 | :--- | :--- | :--- |
-| **Primary Stack** | `Python`, `SQL`, `JavaScript` | ████████░░░░░░ 60% / 40% |
-| **Microcontrollers & Systems** | `C`, `C++` | ████░░░░░░░░░░ 40% / 20% |
-| **Specialized Scripts** | `Lua`, `PHP` | ████░░░░░░░░░░ 40% |
-| **Learning & Research** | `TypeScript`, `Java`, `Kotlin`, `Ruby` | ██░░░░░░░░░░░░ 20% |
-| **Environment** | `Linux`, `CLI`, `Tailwind CSS`, `Node.js` | ██████████░░░░ 80% |
+| **Primary Stack** | `Python` | ██████░░░░ 60% |
+| **Microcontrollers & Systems** | `C`, `C++` | ██░░░░░░░░ 20% |
+| **Specialized Scripts** | `Lua`, `PHP` | ████░░░░░░ 40% |
+| **Learning & Research** | `TypeScript`, `Java`, `Kotlin`, `Ruby` | ██░░░░░░░░ 20% |
+| **Environment** | `Linux`, `CLI` | █████░░░░░ 50% |
 
 <br>
 
